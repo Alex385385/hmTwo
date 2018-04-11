@@ -23,4 +23,5 @@ int main()
    printf("Commission paid selling: %.2f\n", commissionPaid2);
    printf("Profit: %.2f\n", profit);
 
+   return 0;
 }
