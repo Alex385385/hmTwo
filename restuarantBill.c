@@ -1,3 +1,5 @@
+//Alejandro Millan
+//Restuarant Bill
 #include <stdio.h>
 
 int main()

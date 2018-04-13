@@ -1,3 +1,5 @@
+//Alejandro Millan
+//Pattern Display
 #include <stdio.h>
 
 int main()

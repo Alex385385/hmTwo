@@ -1,3 +1,5 @@
+//Alejandro Millan
+//Stock Trading Program Bill
 #include <stdio.h>
 
 int main()
